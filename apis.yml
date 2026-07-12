@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: http://calapi.inadiutorium.cz/
 common:
+  - type: DomainSecurity
+    url: security/church-calendar-domain-security.yml
   - type: Website
     url: http://calapi.inadiutorium.cz/
   - type: PublicAPIsListing
