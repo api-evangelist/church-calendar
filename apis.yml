@@ -39,7 +39,6 @@ apis:
   - name: Church Calendar
     description: "Catholic liturgical calendar"
     humanURL: http://calapi.inadiutorium.cz/
-    baseURL: http://calapi.inadiutorium.cz/
     tags:
       - Calendar
     properties:
